@@ -1,2 +1,2 @@
 # Khan-Academy-Trash
-My amateur Khan Academy Code 
+My Amateur Khan Academy Code 
